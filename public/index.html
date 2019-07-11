@@ -23,6 +23,42 @@
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div class="tradingview-widget-container ticker">
+      <div class="tradingview-widget-container__widget"></div>
+      <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-tickers.js" async>
+          {
+          "symbols": [
+            {
+              "description": "Bitcoin(BTC)/USD",
+              "proName": "COINBASE:BTCUSD"
+            },
+            {
+              "description": "Ethereum(ETH)/USD",
+              "proName": "COINBASE:ETHUSD"
+            },
+            {
+              "description": "Ripple(XRP)/USD",
+              "proName": "BINANCE:XRPBTC"
+            },
+            {
+              "description": "Litecoin(LTE)/USD",
+              "proName": "COINBASE:LTCUSD"
+            },
+            {
+              "description": "Cardano(ADA)/USD",
+              "proName": "BINANCE:ADAUSD"
+            },
+            {
+              "description": "Tron(TRX)/USD",
+              "proName": "BITFINEX:TRXUSD"
+            }
+          ],
+          "colorTheme": "light",
+          "isTransparent": false,
+          "locale": "en"
+        }
+      </script>
+    </div>
     <div id="root"></div>
     <!--
       This HTML file is a template.
