@@ -1,4 +1,4 @@
-# Cryptopedia
+# Cryptopedia Frontend
 
 Cryptopedia was designed to be a cryptocurrency trading simulator and learning website for beginners to get practice with trading cryptocurrencies with real time price changes. Once a User has created an account, you can access the simulator where you are able to buy and sell cryptos! First create or join an active competition, then once the competetion has started, select 'View Portfolio' to buy/sell cryptos to grow your portfolio value as high as possible. You can track the progress of your portfolio with the chart that is created on your portfolio page, as well as learn more about each cryptocurrency by selecting the 'Cryptos' tab at the top of the page, then clicking on a cryptocurrency in the table shown. All prices and statistics are live and updated every minute for a real life trading feel. Hope you enjoy!
 
