@@ -5,7 +5,7 @@ Cryptopedia was designed to be a cryptocurrency trading simulator and learning w
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. You will ned to have the backend repo cloned and installed on your device first. [Backend Repo](https://github.com/cogilvy/cryptopedia-backend)
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. You will ned to have the backend repo cloned and installed on your device first. [Backend Found Here](https://github.com/cogilvy/cryptopedia-backend)
 
 ### Installing and Running the App
 
