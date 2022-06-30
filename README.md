@@ -28,8 +28,7 @@ The frontend will run on port 3001 by default if you already have the backend se
 To start the frontend:
 
 ```
-$ git clone
-$ cd [repo location]
+$ git clone https://github.com/cogilvy/Cryptopedia-Client.git
 $ cd cryptopedia-frontend
 $ npm install
 $ npm start
